@@ -4,7 +4,7 @@
  "version": "0.0.1",
  "private": true,
  "scripts": {
-    "start": "forever -c "nodemon --exitcrash" index.js"
+    "start": "nodemon index.js"
  },
  "dependencies": {
     "express": "3.12.0"
